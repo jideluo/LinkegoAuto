@@ -1,0 +1,6 @@
+Mon, 10 Jun 2019 15:45:15 logger.py[line:10] DEBUG debug_msg
+Mon, 10 Jun 2019 15:45:15 logger.py[line:11] INFO info_msg
+Mon, 10 Jun 2019 15:45:15 logger.py[line:12] WARNING warning_msg
+Mon, 10 Jun 2019 15:45:15 logger.py[line:13] ERROR error_msg
+Mon, 10 Jun 2019 15:45:15 logger.py[line:14] CRITICAL critical_msg
+Mon, 10 Jun 2019 15:45:15 logger.py[line:15] DEBUG CPUÎÂ¶È
